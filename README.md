@@ -1,6 +1,6 @@
 # Please Follow the Instruction Below to Run the Notebooks
 
-Lecture 1: [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e22/blob/master/Lecture%201/dsa-1-introduction.ipynb](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e23/blob/master/Lecture%201/dsa-1-introduction.ipynb#scrollTo=3gRz6av4woRv)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e23/blob/master/Lecture%201/dsa-1-introduction.ipynb#scrollTo=3gRz6av4woRv))
+Lecture 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e22/blob/master/Lecture%201/dsa-1-introduction.ipynb](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e23/blob/master/Lecture%201/dsa-1-introduction.ipynb#scrollTo=3gRz6av4woRv))
 
 [![Binder](https://mybinder.org/badge_logo.svg)]()
 
