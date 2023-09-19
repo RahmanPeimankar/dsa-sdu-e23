@@ -4,6 +4,8 @@ Lecture 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e23/blob/master/Lecture%202/dsa-2-oopp.ipynb)
 
+Lecture 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e23/blob/master/Lecture%203/dsa-3-big-o-and-recursion.ipynb)
+
 
 On this page, you can find course materials such as slides and Jupyter notebooks.
 
