@@ -14,6 +14,7 @@ Lecture 6: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 7: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e23/blob/master/Lecture%207/dsa-7-merge-sort.ipynb)
 
+Lecture 8: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e23/blob/master/Lecture%208/dsa-8-maps.ipynb)
 
 
 On this page, you can find course materials such as slides and Jupyter notebooks.
