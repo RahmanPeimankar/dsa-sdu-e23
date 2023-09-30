@@ -10,6 +10,8 @@ Lecture 4: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 5: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e23/blob/master/Lecture%205/dsa-5-stacks-queues-deques.ipynb)
 
+Lecture 6: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e23/blob/master/Lecture%206/dsa-6-linked_lists.ipynb)
+
 
 On this page, you can find course materials such as slides and Jupyter notebooks.
 
