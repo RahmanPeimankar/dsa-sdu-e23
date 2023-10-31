@@ -20,6 +20,8 @@ Lecture 9: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 10: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e23/blob/master/Lecture%2010/dsa-10-sorted-maps-trees.ipynb)
 
+Lecture 11: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e23/blob/master/Lecture%2011/dsa-11-binary-trees.ipynb)
+
 
 On this page, you can find course materials such as slides and Jupyter notebooks.
 
